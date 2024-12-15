@@ -1,13 +1,18 @@
 :tada: 12月ハッカソン開催のお知らせ！ :tada:
+
 80&Company / OCT-PATHでは、プロトタイプ開発に力を注いでいます。
 皆さんの柔軟な発想とアイデアを形にし、プロトタイプとしてご応募ください！
 
 :star2: 優秀なプロトタイプ制作者には豪華賞金を進呈！ :star2:
+
 賞金：
-:first_place_medal: 1位：50,000 YEN
-:second_place_medal: 2位：30,000 YEN
-:third_place_medal: 3位：20,000 YEN
-※このハッカソンは定期的に開催予定です。
+:first_place_medal: 1位：50,000 YEN 
+
+:second_place_medal: 2位：30,000 YEN 
+
+:third_place_medal: 3位：20,000 YEN 
+
+※このハッカソンは定期的に開催予定です。 
 
 開催期間
 12月9日〜1月6日
@@ -43,3 +48,8 @@ READMEや動画での説明の分かりやすさ。
 
 
 この機会にぜひ参加して、皆さんの才能を最大限に発揮しましょう！
+
+
+Dify
+
+https://80andco.slack.com/docs/TALR656ES/F084A17TS9K
