@@ -19,7 +19,7 @@ This prototype application offers several key features designed to support healt
   Utilizing artificial intelligence technology, this prototype can assist in diagnosing various diseases based on symptoms reported by patients. Users can upload images or describe symptoms to receive an accurate preliminary analysis, which will support medical decision-making.
 
 - **Medical Image Analysis**  
-  This feature allows users to upload and analyze medical images, such as X-rays, CT scans, and MRIs, to detect abnormalities or early signs of diseases.
+  This feature allows users to upload and analyze medical images, to detect abnormalities or early signs of diseases.
 
 - **Referral for Follow-Up Steps**  
   After a preliminary diagnosis is provided, this prototype offers referral recommendations for appropriate follow-up. These referrals may include suggestions for further treatment, additional examinations, or consultations with specialists, depending on the type of disease detected.
@@ -49,40 +49,45 @@ This prototype application is built using the latest technologies in software de
    Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/your-repository-url.git
+
+2. **Copy the .env.example file**  
+   Copy the .env.example file to .env and fill in the necessary variables:
+   ```bash
+   cp .env.example .env
    ```
 
-2. **Navigate to the Project Directory**  
+3. **Navigate to the Project Directory**  
    Navigate to the project directory:
    ```bash
    cd your-project-directory
    ```
 
-3. **Virtual Environment**  
+4. **Virtual Environment**  
    Create a virtual environment:
    ```bash
    python -m venv venv
    ```
 
-4. **Activate the Virtual Environment**  
+5. **Activate the Virtual Environment**  
    Activate the virtual environment:
    ```bash
    source venv/bin/activate
    ```
 
-5. **Install Dependencies**  
+6. **Install Dependencies**  
    Install the required dependencies using pip:
    ```bash
    pip install -r requirements.txt
    ```
 
-6. **Run the Application**  
+7. **Run the Application**  
    Start the application by running the following command:
    ```bash
    streamlit run app/main.py
    ```
 
 
-### Running Problem
+### Troubleshooting
 if you encounter an error related to `No module named 'app'`, you can try to running the following commands:
 
 ```powershell
@@ -101,3 +106,13 @@ We would like to express our gratitude to the following individuals and organiza
 - [OpenAI](https://openai.com/) for providing the language model used in text analysis.
 - [Streamlit](https://streamlit.io/) for providing the web framework used in this project.
 
+
+
+## DEMO PREVIEW
+
+- [DEMO PREVIEW](https://drive.google.com/file/d/1OYpmklPnWu5JDZgBUqf6pES_RckxcCt3/view?usp=sharing)
+
+
+## DEMO LINKS
+
+- [DEMO LINK](https://aizen-demo.streamlit.app/)
