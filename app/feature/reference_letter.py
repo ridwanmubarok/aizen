@@ -171,5 +171,10 @@ def reference_letter_page():
                 file_name="reference_letter.pdf",
                 mime="application/pdf"
             )
+            
+            if st.button("Reset and Return to Patient"):
+                st.session_state.clear()
+                st.session_state.active_tab = "Patient"
+                st.rerun() 
     else:
         st.warning("Please complete the previous steps before generating a reference letter.")

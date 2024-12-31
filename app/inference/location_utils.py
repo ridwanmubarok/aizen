@@ -8,7 +8,7 @@ def get_season(location, date):
         return 'indonesia_wet'
     
     # Japan
-    elif 'Japan' in location:
+    elif 'Japan' in location or any('\u4e00' <= char <= '\u9fff' for char in location):
         if 3 <= date.month <= 5:
             return 'japan_spring'
         elif 6 <= date.month <= 8:
