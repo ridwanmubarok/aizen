@@ -107,12 +107,6 @@ We would like to express our gratitude to the following individuals and organiza
 - [Streamlit](https://streamlit.io/) for providing the web framework used in this project.
 
 
-
 ## DEMO PREVIEW
 
 - [DEMO PREVIEW](https://drive.google.com/file/d/1OYpmklPnWu5JDZgBUqf6pES_RckxcCt3/view?usp=sharing)
-
-
-## DEMO LINKS
-
-- [DEMO LINK](https://aizen-demo.streamlit.app/)
