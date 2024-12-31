@@ -109,4 +109,8 @@ We would like to express our gratitude to the following individuals and organiza
 
 ## DEMO PREVIEW
 
-- [DEMO PREVIEW](https://drive.google.com/file/d/1OYpmklPnWu5JDZgBUqf6pES_RckxcCt3/view?usp=sharing)
+- [https://drive.google.com/file/d/1OYpmklPnWu5JDZgBUqf6pES_RckxcCt3/view?usp=sharing](https://drive.google.com/file/d/1OYpmklPnWu5JDZgBUqf6pES_RckxcCt3/view?usp=sharing)
+
+## DEMO LINKS
+
+- [https://aizen.cloud-ind.my.id/](https://aizen.cloud-ind.my.id/)
